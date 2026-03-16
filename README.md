@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anshu Kumar
 
-🎓 BCA Student | Aspiring Full Stack Developer  
+🎓 BCA Graduate | Aspiring Full Stack Developer  
 📍 Mohali, Punjab  
 
 ---
