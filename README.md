@@ -31,4 +31,4 @@ Hackathon project that connects semi-urban users to nearby healthcare facilities
 ---
 
 ## 📫 Connect With Me
-LinkedIn: (add your linkedin link)
+LinkedIn: www.linkedin.com/in/anshu-kumar-541a2228b
